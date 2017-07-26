@@ -1590,7 +1590,7 @@
 /* Type */
 
 	html {
-		font-size: 12pt;
+		font-size: 11pt;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -1604,7 +1604,7 @@
 		@media screen and (max-width: 1280px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 11pt;
 			}
 
 		}
@@ -1612,7 +1612,7 @@
 		@media screen and (max-width: 980px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 11pt;
 			}
 
 		}
@@ -1620,7 +1620,7 @@
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 10pt;
 			}
 
 		}
@@ -1628,7 +1628,7 @@
 		@media screen and (max-width: 480px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 10pt;
 			}
 
 		}
@@ -1723,7 +1723,7 @@
 		font-style: italic;
 		font-size:1.2rem;
 		margin: 0 10rem 1rem 3rem;
-		padding: 0.5rem 0 0.5rem 2rem;
+		padding: 0.5rem 0 0.5rem 0.5rem;
 	}
 
 	code {
@@ -1826,7 +1826,7 @@
 		@media screen and (max-width: 736px) {
 
 			.box .content {
-				padding: 2rem;
+				padding: 1rem;
 			}
 
 		}
